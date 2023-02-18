@@ -11,10 +11,8 @@ public class Lab {
      * @return the sum of a and b.
      */
     public int addNumbers(int a, int b){
-        a=10;
-        b=5;
         int sum = a+b;
-        System.out.println(sum);//15
+        System.out.println(sum);
         return sum;
-    }
-}
+      }
+     }
